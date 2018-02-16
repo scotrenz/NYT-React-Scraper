@@ -13,7 +13,7 @@ app.use(articleController);
 mongoose.Promise = global.Promise;
 
 mongoose.connect(
-  process.env.MONGODB_URI || "mongodb://localhost/nytreact",
+  process.env.MONGODB_URI || "mongodb://heroku_6zmvwtkm:bfjqftl6qrq8pnli0brmrg32tp@ds239128.mlab.com:39128/heroku_6zmvwtkm",
   {
     useMongoClient: true
   }
