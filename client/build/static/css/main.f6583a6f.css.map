@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Articles/style.css"],"names":[],"mappings":"AAAA,MACI,eACA,UAAa,CAGjB,KACI,kBAAoB","file":"static/css/main.f6583a6f.css","sourcesContent":["label {\n    font-size: 20px;\n    color: black;\n}\n\n#fix {\n    margin-bottom: 14px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/pages/Articles/style.css"],"sourceRoot":""}
